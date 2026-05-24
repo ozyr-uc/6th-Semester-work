@@ -185,6 +185,3 @@ The project will be considered successful if:
 - The system reduces manual workload
 
 ---
-
->[!warning] Warning
->This is a warning
