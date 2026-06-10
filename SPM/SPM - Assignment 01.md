@@ -13,7 +13,7 @@
 | Name        | Roll No | Email                   |
 | ----------- | ------- | ----------------------- |
 | Uzair Ahmad | 913     | ozyr.uc@gmail.com       |
-| Haroon Ahmad | 914 | haroonahmad121314@ |
+| Haroon Ahmad | 914 | haroonahmad121314@gmail.com |
 | Fayaz Ahmad | 924     | fayazahmaddev@gmail.com |
 
 
